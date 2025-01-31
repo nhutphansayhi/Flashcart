@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Learn English Flashcards</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Learn English Flashcards</h2>
+
+    <!-- Dropdown để chọn bộ từ vựng -->
+    <select id="vocabSelector">
+      <option value="">Select Vocabulary Set</option>
+      <option value="set1.json">Set 1</option>
+      <option value="set2.json">Set 2</option>
+      <option value="set3.json">Set 3</option>
+    </select>
+
+    <br><br>
+    <input type="file" id="fileInput" accept=".json" />
+
+    <div id="flashcardContainer">
+      <h3 id="word"></h3>
+      <p id="meaning"></p>
+      <p id="example"></p>
+      <button onclick="showAnswer()">Show Answer</button>
+      <button onclick="previousFlashcard()">Back</button> <!-- Nút Back mới -->
+      <button onclick="nextFlashcard()">Next</button>
+      <p id="answer" class="hidden"></p>
+    </div>
+
+    <br>
+    <a href="#">Back to Home</a>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

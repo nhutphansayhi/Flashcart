@@ -1,0 +1,469 @@
+[
+    {
+      "word": "shard",
+      "meaning": "a piece of broken metal, glass, or rock, typically having sharp edges",
+      "example": "broken parts"
+    },
+    {
+      "word": "collision",
+      "meaning": "crash, impact, accident",
+      "example": "The collision caused severe damage to the car."
+    },
+    {
+      "word": "debris",
+      "meaning": "rubbish, trash, wreckage",
+      "example": "The debris from the explosion scattered everywhere."
+    },
+    {
+      "word": "orbit",
+      "meaning": "space path, celestial trajectory, revolving route",
+      "example": "The satellite is in a low Earth orbit."
+    },
+    {
+      "word": "threat",
+      "meaning": "danger, risk, menace",
+      "example": "The rising threat of climate change is alarming."
+    },
+    {
+      "word": "commercial",
+      "meaning": "business, trade, profit-making",
+      "example": "The company launched a commercial spaceflight."
+    },
+    {
+      "word": "civil",
+      "meaning": "relating to ordinary citizens",
+      "example": "The civil rights movement fought for equality."
+    },
+    {
+      "word": "shrapnel",
+      "meaning": "shards, fragments, debris, splinters",
+      "example": "The bomb exploded, scattering shrapnel in all directions."
+    },
+    {
+      "word": "threaten",
+      "meaning": "endanger, menace, jeopardize",
+      "example": "The storm threatens to disrupt our plans."
+    },
+    {
+      "word": "altitude",
+      "meaning": "height",
+      "example": "The airplane is at an altitude of 10,000 feet."
+    },
+    {
+      "word": "human-made",
+      "meaning": "man-made, artificial, created by humans",
+      "example": "The city is full of human-made structures."
+    },
+    {
+      "word": "operator",
+      "meaning": "controller, manager, handler",
+      "example": "The operator controls the satellite's movement."
+    },
+    {
+      "word": "steer away",
+      "meaning": "avoid, evade, divert",
+      "example": "We need to steer away from risky investments."
+    },
+    {
+      "word": "otherwise",
+      "meaning": "alternatively, else, in another way",
+      "example": "We should go now, otherwise we'll be late."
+    },
+    {
+      "word": "concern",
+      "meaning": "worry, anxiety, distress",
+      "example": "The concern for the environment is growing."
+    },
+    {
+      "word": "junk",
+      "meaning": "trash, garbage, litter",
+      "example": "The street was full of junk after the party."
+    },
+    {
+      "word": "objects",
+      "meaning": "things",
+      "example": "There are many objects in space."
+    },
+    {
+      "word": "rising",
+      "meaning": "increasing, growing, escalating",
+      "example": "The rising sea levels are a major concern."
+    },
+    {
+      "word": "rapidly",
+      "meaning": "quickly, swiftly, speedily",
+      "example": "The fire spread rapidly through the building."
+    },
+    {
+      "word": "researcher",
+      "meaning": "scientist, scholar, investigator",
+      "example": "The researcher discovered a new element."
+    },
+    {
+      "word": "investigating",
+      "meaning": "exploring, examining, researching",
+      "example": "The police are investigating the crime scene."
+    },
+    {
+      "word": "attacking",
+      "meaning": "addressing, dealing with, tackling",
+      "example": "We are attacking the issue of pollution head-on."
+    },
+    {
+      "word": "assess",
+      "meaning": "evaluate, analyzing, examine",
+      "example": "We need to assess the risks before proceeding."
+    },
+    {
+      "word": "efficiently",
+      "meaning": "effectively, productively, competently",
+      "example": "The system operates efficiently, saving time and energy."
+    },
+    {
+      "word": "ever-more-crowded",
+      "meaning": "increasingly congested, progressively crowded",
+      "example": "The streets are becoming ever-more-crowded."
+    },
+    {
+      "word": "compile",
+      "meaning": "gather, collect, assemble",
+      "example": "We need to compile the data from all departments."
+    },
+    {
+      "word": "massive",
+      "meaning": "huge, enormous, gigantic",
+      "example": "The earthquake caused massive damage."
+    },
+    {
+      "word": "taxonomies",
+      "meaning": "classifications, categorizations",
+      "example": "The study includes various taxonomies of space debris."
+    },
+    {
+      "word": "properties",
+      "meaning": "qualities",
+      "example": "The properties of water are well understood."
+    },
+    {
+      "word": "coming their way",
+      "meaning": "will happen next",
+      "example": "The dangers of space debris are coming their way."
+    },
+    {
+      "word": "alternative",
+      "meaning": "another option, a different choice",
+      "example": "There is an alternative route to avoid traffic."
+    },
+    {
+      "word": "unthinkable",
+      "meaning": "unrealistic, unimaginable, impossible",
+      "example": "The idea of traveling to Mars seemed unthinkable decades ago."
+    },
+    {
+      "word": "uncontrolled",
+      "meaning": "unmanaged, out of control, chaotic",
+      "example": "The wildfire became uncontrollable, spreading rapidly."
+    },
+    {
+      "word": "crash",
+      "meaning": "collision, impact, accident",
+      "example": "The plane crash was a tragic accident."
+    },
+    {
+      "word": "generate",
+      "meaning": "produce, create, cause",
+      "example": "The engine generates enough power to run the vehicle."
+    },
+    {
+      "word": "set off",
+      "meaning": "start",
+      "example": "The alarm went off when the sensor was triggered."
+    },
+    {
+      "word": "runaway cascade",
+      "meaning": "means that once something bad starts happening, it keeps getting worse and worse very quickly",
+      "example": "The runaway cascade of events led to disaster."
+    },
+    {
+      "word": "fragments",
+      "meaning": "pieces, shards, particles",
+      "example": "The fragments of the shattered glass were everywhere."
+    },
+    {
+      "word": "render",
+      "meaning": "make, transform, change",
+      "example": "The disaster rendered the city uninhabitable."
+    },
+    {
+      "word": "a point of no return",
+      "meaning": "irreversible stage, critical threshold, unrecoverable point",
+      "example": "The company reached a point of no return with its debt."
+    },
+    {
+      "word": "monitor",
+      "meaning": "observe, watch, track",
+      "example": "We need to monitor the situation closely."
+    },
+    {
+      "word": "collaborating",
+      "meaning": "working together, cooperating, joining forces",
+      "example": "The scientists are collaborating on a new research project."
+    },
+    {
+      "word": "shared",
+      "meaning": "joint, mutual",
+      "example": "The project was a shared effort between several companies."
+    },
+    {
+      "word": "guideline",
+      "meaning": "instruction, rule, recommendation",
+      "example": "The guidelines for the project must be followed."
+    },
+    {
+      "word": "inactivating",
+      "meaning": "deactivating, disabling, turning off",
+      "example": "The system was inactivated to prevent further damage."
+    },
+    {
+      "word": "pressurized",
+      "meaning": "compressed, pressed, squeezed",
+      "example": "The pressurized container is designed to hold gases."
+    },
+    {
+      "word": "leftover",
+      "meaning": "a leftover part of something is the part that has not been used or eaten when the other parts have been",
+      "example": "We have some leftover food from dinner."
+    },
+    {
+      "word": "explosion",
+      "meaning": "burst, blast, eruption",
+      "example": "The explosion caused widespread damage."
+    },
+    {
+      "word": "burn up",
+      "meaning": "incinerate, combust, ignite",
+      "example": "The spacecraft will burn up upon re-entry into the atmosphere."
+    },
+    {
+      "word": "disintegrate",
+      "meaning": "break apart, crumble, deteriorate",
+      "example": "The building disintegrated after the explosion."
+    },
+    {
+      "word": "department",
+      "meaning": "division, unit, section",
+      "example": "The finance department handles all the accounts."
+    },
+    {
+      "word": "amateur",
+      "meaning": "non-professional, hobbyist, enthusiast",
+      "example": "The amateur astronomer spent hours observing the night sky."
+    },
+    {
+      "word": "sharply",
+      "meaning": "steeply, dramatically, significantly",
+      "example": "The price of oil increased sharply."
+    },
+    {
+      "word": "leading",
+      "meaning": "prominent, principal, primary",
+      "example": "He is the leading expert in the field."
+    },
+    {
+      "word": "follow through on",
+      "meaning": "continue",
+      "example": "We need to follow through on our promises."
+    },
+    {
+      "word": "deploy",
+      "meaning": "set up, install, position",
+      "example": "The troops were deployed to the front lines."
+    },
+    {
+      "word": "constellations",
+      "meaning": "groups, clusters, arrays",
+      "example": "The sky was filled with constellations."
+    },
+    {
+      "word": "satellite",
+      "meaning": "spacecraft, orbiters, space probes",
+      "example": "The satellite transmits data back to Earth."
+    },
+    {
+      "word": "traffic",
+      "meaning": "the amount of aircraft, trains, or ships moving along a route",
+      "example": "Air traffic controllers monitor the flow of planes."
+    },
+    {
+      "word": "disaster",
+      "meaning": "catastrophe, calamity, tragedy",
+      "example": "The earthquake was a natural disaster."
+    },
+    {
+      "word": "smash into",
+      "meaning": "crash into, run into",
+      "example": "The car smashed into the tree."
+    },
+    {
+      "word": "inactive",
+      "meaning": "idle, unused, not running",
+      "example": "The account has been inactive for months."
+    },
+    {
+      "word": "abided by",
+      "meaning": "followed, complied with, obeyed",
+      "example": "The rules must be abided by at all times."
+    },
+    {
+      "word": "steward",
+      "meaning": "custodian, guardian, caretaker",
+      "example": "The steward is responsible for the spacecraft's safety."
+    },
+    {
+      "word": "enterprise",
+      "meaning": "project, venture, initiative",
+      "example": "The company launched a new enterprise in space exploration."
+    },
+    {
+      "word": "bankrupt",
+      "meaning": "insolvent, penniless, indebted",
+      "example": "The company went bankrupt after the market crash."
+    },
+    {
+      "word": "vastness",
+      "meaning": "bigness, immensity, extent, enormity",
+      "example": "The vastness of the ocean is overwhelming."
+    },
+    {
+      "word": "tackle",
+      "meaning": "address, deal with, confront",
+      "example": "We need to tackle the issue of climate change."
+    },
+    {
+      "word": "find out",
+      "meaning": "discover, uncover, ascertain",
+      "example": "I need to find out more about the upcoming conference."
+    },
+    {
+      "word": "precision",
+      "meaning": "accuracy, exactness, rigor",
+      "example": "The experiment requires precision in measurements."
+    },
+    {
+      "word": "alleviate",
+      "meaning": "ease, reduce, mitigate",
+      "example": "The medicine will alleviate the pain."
+    },
+    {
+      "word": "maneuvers",
+      "meaning": "maneuvers, actions, movements",
+      "example": "The aircraft performed complex aerial maneuvers."
+    },
+    {
+      "word": "collisions",
+      "meaning": "crashes, impacts, accidents",
+      "example": "The collisions caused traffic delays."
+    },
+    {
+      "word": "specialist",
+      "meaning": "experts",
+      "example": "She is a specialist in astrodynamics."
+    },
+    {
+      "word": "astrodynamicist",
+      "meaning": "a person who studies astrodynamics",
+      "example": "The astrodynamicist calculates the trajectory of satellites."
+    },
+    {
+      "word": "astrodynamics",
+      "meaning": "a way of talking about how things move in space.",
+      "example": "Astrodynamics is crucial for planning space missions."
+    },
+    {
+      "word": "line up",
+      "meaning": "arrange in a straight row",
+      "example": "The planets line up in a straight line during certain events."
+    },
+    {
+      "word": "land",
+      "meaning": "touchdown, arrival, descent",
+      "example": "The spacecraft will land on the moon."
+    },
+    {
+      "word": "take off",
+      "meaning": "departure, liftoff, launch",
+      "example": "The plane will take off in 10 minutes."
+    },
+    {
+      "word": "choreographed",
+      "meaning": "planned, organized, arranged",
+      "example": "The dance performance was carefully choreographed."
+    },
+    {
+      "word": "accuracy",
+      "meaning": "precision, exactness, reliability",
+      "example": "The accuracy of the satellite's orbit is essential."
+    },
+    {
+      "word": "tracked",
+      "meaning": "monitored, followed, traced",
+      "example": "The movement of space debris is tracked by scientists."
+    },
+    {
+      "word": "consistently",
+      "meaning": "continuously, reliably, persistently",
+      "example": "The system works consistently without any errors."
+    },
+    {
+      "word": "authoritative catalog",
+      "meaning": "an official and reliable list or record that provides accurate and trustworthy information about the orbits of all known space debris.",
+      "example": "Scientists use an authoritative catalog to track space debris."
+    },
+    {
+      "word": "illustrate",
+      "meaning": "demonstrate, show, depict",
+      "example": "The chart illustrates the increase in space debris."
+    },
+    {
+      "word": "database",
+      "meaning": "a collection of data stored",
+      "example": "The database holds information on all known satellites."
+    },
+    {
+      "word": "draw on",
+      "meaning": "use something",
+      "example": "The researcher will draw on previous studies for the project."
+    },
+    {
+      "word": "visualize",
+      "meaning": "form an image in a brain; imagine",
+      "example": "It is difficult to visualize the scale of space debris."
+    },
+    {
+      "word": "identifier",
+      "meaning": "label, name, code",
+      "example": "Each satellite has a unique identifier."
+    },
+    {
+      "word": "designate",
+      "meaning": "assign, identify, label",
+      "example": "They designated the area as a no-fly zone."
+    },
+    {
+      "word": "cross-correlate",
+      "meaning": "compare, match, align",
+      "example": "We need to cross-correlate data from different sources."
+    },
+    {
+      "word": "environmentalist",
+      "meaning": "conservationist, green advocate, nature protector",
+      "example": "The environmentalist spoke out against the pollution in the ocean."
+    },
+    {
+      "word": "devolving",
+      "meaning": "deteriorating, declining, regressing",
+      "example": "The situation is devolving rapidly."
+    }
+  ]
+  
+  
