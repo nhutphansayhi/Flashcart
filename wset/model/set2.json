@@ -1,0 +1,70 @@
+{
+    "vocabulary": [
+      {
+        "id": 1,
+        "word": "shard",
+        "phonetic": "/ʃɑːrd/",
+        "definition": "A piece of broken metal, glass, or rock, typically having sharp edges.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The floor was covered with shards of glass after the window broke.",
+            "vi": "Sàn nhà đầy những mảnh vỡ thủy tinh sau khi cửa sổ bị vỡ."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "word": "collision",
+        "phonetic": "/kəˈlɪʒən/",
+        "definition": "A crash, impact, or accident involving two or more objects.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The car was damaged in a collision with a truck.",
+            "vi": "Chiếc xe bị hư hỏng do va chạm với một chiếc xe tải."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "word": "debris",
+        "phonetic": "/dəˈbriː/",
+        "definition": "Rubbish, trash, or wreckage scattered after destruction.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The rescue teams searched through the debris for survivors.",
+            "vi": "Các đội cứu hộ tìm kiếm qua đống đổ nát để tìm người sống sót."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "word": "orbit",
+        "phonetic": "/ˈɔːrbɪt/",
+        "definition": "The path a celestial object follows around another object in space.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The satellite was placed in orbit around the Earth.",
+            "vi": "Vệ tinh đã được đặt trong quỹ đạo quanh Trái đất."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "word": "threat",
+        "phonetic": "/θret/",
+        "definition": "Danger, risk, or menace that can cause harm.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "Climate change poses a serious threat to the environment.",
+            "vi": "Biến đổi khí hậu là một mối đe dọa nghiêm trọng đối với môi trường."
+          }
+        ]
+      }
+    ]
+  }
+  

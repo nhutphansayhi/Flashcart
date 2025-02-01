@@ -10,7 +10,6 @@
   <div class="container">
     <h2>Learn English Flashcards</h2>
 
-    <!-- Dropdown để chọn bộ từ vựng -->
     <select id="vocabSelector">
       <option value="">Select Vocabulary Set</option>
       <option value="set1.json">Set 1</option>
@@ -23,16 +22,18 @@
 
     <div id="flashcardContainer">
       <h3 id="word"></h3>
+      <p id="phonetic"></p>
+      <p id="classification"></p>
       <p id="meaning"></p>
       <p id="example"></p>
-      <button onclick="showAnswer()">Show Answer</button>
-      <button onclick="previousFlashcard()">Back</button> <!-- Nút Back mới -->
-      <button onclick="nextFlashcard()">Next</button>
-      <p id="answer" class="hidden"></p>
-    </div>
+      <p id="translation" class="hidden"></p>
+      <a id="dictionaryLink" href="#" target="_blank" class="hidden">Dictionary Link</a>
 
-    <br>
-    <a href="#">Back to Home</a>
+      <button class="back" onclick="previousFlashcard()">Back</button>
+      <button class="primary" onclick="showAnswer()">Show Answer</button>
+      <button class="secondary" onclick="toggleTranslation()">Show Translation</button>
+      <button class="next" onclick="nextFlashcard()">Next</button>
+    </div>
   </div>
 
   <script src="script.js"></script>

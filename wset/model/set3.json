@@ -1,0 +1,461 @@
+{
+    "vocabulary": [
+      {
+        "id": 1,
+        "word": "shard",
+        "phonetic": "/ʃɑːrd/",
+        "definition": "A piece of broken metal, glass, or rock, typically having sharp edges.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The floor was covered with shards of glass after the window broke.",
+            "vi": "Sàn nhà đầy những mảnh vỡ thủy tinh sau khi cửa sổ bị vỡ."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "word": "collision",
+        "phonetic": "/kəˈlɪʒən/",
+        "definition": "A crash, impact, or accident involving two or more objects.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The car was damaged in a collision with a truck.",
+            "vi": "Chiếc xe bị hư hỏng do va chạm với một chiếc xe tải."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "word": "debris",
+        "phonetic": "/dəˈbriː/",
+        "definition": "Rubbish, trash, or wreckage scattered after destruction.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The rescue teams searched through the debris for survivors.",
+            "vi": "Các đội cứu hộ tìm kiếm qua đống đổ nát để tìm người sống sót."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "word": "orbit",
+        "phonetic": "/ˈɔːrbɪt/",
+        "definition": "The path a celestial object follows around another object in space.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The satellite was placed in orbit around the Earth.",
+            "vi": "Vệ tinh đã được đặt trong quỹ đạo quanh Trái đất."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "word": "threat",
+        "phonetic": "/θret/",
+        "definition": "Danger, risk, or menace that can cause harm.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "Climate change poses a serious threat to the environment.",
+            "vi": "Biến đổi khí hậu là một mối đe dọa nghiêm trọng đối với môi trường."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "word": "commercial",
+        "phonetic": "/kəˈmɜːrʃəl/",
+        "definition": "Relating to business, trade, or profit-making activities.",
+        "classification": "adjective",
+        "examples": [
+          {
+            "en": "The commercial success of the product was beyond expectations.",
+            "vi": "Thành công thương mại của sản phẩm vượt quá mong đợi."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "word": "civil",
+        "phonetic": "/ˈsɪvəl/",
+        "definition": "Relating to ordinary citizens or their rights and responsibilities.",
+        "classification": "adjective",
+        "examples": [
+          {
+            "en": "Civil rights movements have brought significant changes to society.",
+            "vi": "Các phong trào dân quyền đã mang lại những thay đổi lớn cho xã hội."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "word": "department",
+        "phonetic": "/dɪˈpɑːrtmənt/",
+        "definition": "A division or unit within an organization.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "She works in the marketing department of a large corporation.",
+            "vi": "Cô ấy làm việc trong bộ phận tiếp thị của một tập đoàn lớn."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "word": "amateur",
+        "phonetic": "/ˈæmətər/",
+        "definition": "A non-professional or hobbyist.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "He is an amateur photographer who enjoys taking pictures in his free time.",
+            "vi": "Anh ấy là một nhiếp ảnh gia nghiệp dư thích chụp ảnh trong thời gian rảnh."
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "word": "sharply",
+        "phonetic": "/ˈʃɑːrpli/",
+        "definition": "Steeply, dramatically, or significantly.",
+        "classification": "adverb",
+        "examples": [
+          {
+            "en": "The temperature dropped sharply overnight.",
+            "vi": "Nhiệt độ giảm mạnh qua đêm."
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "word": "leading",
+        "phonetic": "/ˈliːdɪŋ/",
+        "definition": "Prominent, principal, or primary.",
+        "classification": "adjective",
+        "examples": [
+          {
+            "en": "She is a leading expert in the field of neuroscience.",
+            "vi": "Cô ấy là một chuyên gia hàng đầu trong lĩnh vực khoa học thần kinh."
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "word": "follow through on",
+        "phonetic": "/ˈfɒləʊ θruː ɒn/",
+        "definition": "To continue or complete something that has been started.",
+        "classification": "phrasal verb",
+        "examples": [
+          {
+            "en": "It's important to follow through on your commitments.",
+            "vi": "Việc thực hiện đến cùng các cam kết của bạn là rất quan trọng."
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "word": "deploy",
+        "phonetic": "/dɪˈplɔɪ/",
+        "definition": "To set up, install, or position something for use.",
+        "classification": "verb",
+        "examples": [
+          {
+            "en": "The company plans to deploy new software across all departments.",
+            "vi": "Công ty dự định triển khai phần mềm mới trên tất cả các phòng ban."
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "word": "constellations",
+        "phonetic": "/ˌkɒnstəˈleɪʃənz/",
+        "definition": "Groups, clusters, or arrays of stars or other celestial objects.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The night sky was filled with beautiful constellations.",
+            "vi": "Bầu trời đêm đầy những chòm sao đẹp."
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "word": "satellite",
+        "phonetic": "/ˈsætəlaɪt/",
+        "definition": "A spacecraft or orbiter that orbits a planet or moon.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The satellite provided valuable data about the Earth's atmosphere.",
+            "vi": "Vệ tinh cung cấp dữ liệu quý giá về bầu khí quyển Trái đất."
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "word": "traffic",
+        "phonetic": "/ˈtræfɪk/",
+        "definition": "The amount of aircraft, trains, or ships moving along a route.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "Air traffic control ensures the safe movement of planes in the sky.",
+            "vi": "Kiểm soát không lưu đảm bảo sự di chuyển an toàn của máy bay trên bầu trời."
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "word": "disaster",
+        "phonetic": "/dɪˈzɑːstər/",
+        "definition": "A catastrophe, calamity, or tragedy.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The earthquake was a disaster that left thousands homeless.",
+            "vi": "Trận động đất là một thảm họa khiến hàng nghìn người mất nhà cửa."
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "word": "smash into",
+        "phonetic": "/smæʃ ˈɪntuː/",
+        "definition": "To crash into or run into something with force.",
+        "classification": "phrasal verb",
+        "examples": [
+          {
+            "en": "The car smashed into the wall, causing significant damage.",
+            "vi": "Chiếc xe đâm vào tường, gây ra thiệt hại đáng kể."
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "word": "inactive",
+        "phonetic": "/ɪnˈæktɪv/",
+        "definition": "Idle, unused, or not running.",
+        "classification": "adjective",
+        "examples": [
+          {
+            "en": "The account has been inactive for over a year.",
+            "vi": "Tài khoản đã không hoạt động trong hơn một năm."
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "word": "shrapnel",
+        "phonetic": "/ˈʃræpnəl/",
+        "definition": "Shards, fragments, debris, or splinters from an explosion.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The explosion sent shrapnel flying in all directions.",
+            "vi": "Vụ nổ khiến các mảnh đạn bay ra khắp nơi."
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "word": "threaten",
+        "phonetic": "/ˈθretən/",
+        "definition": "To endanger, menace, or jeopardize.",
+        "classification": "verb",
+        "examples": [
+          {
+            "en": "The storm threatened to destroy the coastal town.",
+            "vi": "Cơn bão đe dọa phá hủy thị trấn ven biển."
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "word": "altitude",
+        "phonetic": "/ˈæltɪtjuːd/",
+        "definition": "Height above sea level or ground level.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The plane reached an altitude of 30,000 feet.",
+            "vi": "Máy bay đạt đến độ cao 30.000 feet."
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "word": "human-made",
+        "phonetic": "/ˈhjuːmən meɪd/",
+        "definition": "Man-made, artificial, or created by humans.",
+        "classification": "adjective",
+        "examples": [
+          {
+            "en": "The lake is a human-made reservoir.",
+            "vi": "Hồ này là một hồ chứa nhân tạo."
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "word": "operator",
+        "phonetic": "/ˈɒpəreɪtər/",
+        "definition": "A controller, manager, or handler of equipment or systems.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The operator of the machine ensured it was running smoothly.",
+            "vi": "Người vận hành máy đảm bảo nó hoạt động trơn tru."
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "word": "steer away",
+        "phonetic": "/stɪər əˈweɪ/",
+        "definition": "To avoid, evade, or divert from something.",
+        "classification": "phrasal verb",
+        "examples": [
+          {
+            "en": "The captain steered the ship away from the storm.",
+            "vi": "Thuyền trưởng lái con tàu tránh xa cơn bão."
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "word": "otherwise",
+        "phonetic": "/ˈʌðəwaɪz/",
+        "definition": "Alternatively, else, or in another way.",
+        "classification": "adverb",
+        "examples": [
+          {
+            "en": "We need to leave now; otherwise, we'll miss the train.",
+            "vi": "Chúng ta cần rời đi ngay bây giờ; nếu không, chúng ta sẽ lỡ chuyến tàu."
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "word": "concern",
+        "phonetic": "/kənˈsɜːn/",
+        "definition": "Worry, anxiety, or distress about something.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "There is growing concern about the effects of pollution.",
+            "vi": "Ngày càng có nhiều lo ngại về tác động của ô nhiễm."
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "word": "junk",
+        "phonetic": "/dʒʌŋk/",
+        "definition": "Trash, garbage, or litter.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The garage was filled with old junk.",
+            "vi": "Nhà để xe đầy những đồ cũ bỏ đi."
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "word": "objects",
+        "phonetic": "/ˈɒbdʒɪkts/",
+        "definition": "Things that can be seen or touched.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The museum has a collection of ancient objects.",
+            "vi": "Bảo tàng có một bộ sưu tập các đồ vật cổ."
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "word": "rising",
+        "phonetic": "/ˈraɪzɪŋ/",
+        "definition": "Increasing, growing, or escalating.",
+        "classification": "adjective",
+        "examples": [
+          {
+            "en": "The rising cost of living is a concern for many families.",
+            "vi": "Chi phí sinh hoạt ngày càng tăng là mối lo ngại của nhiều gia đình."
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "word": "rapidly",
+        "phonetic": "/ˈræpɪdli/",
+        "definition": "Quickly, swiftly, or speedily.",
+        "classification": "adverb",
+        "examples": [
+          {
+            "en": "The technology industry is rapidly evolving.",
+            "vi": "Ngành công nghệ đang phát triển nhanh chóng."
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "word": "researcher",
+        "phonetic": "/rɪˈsɜːrtʃər/",
+        "definition": "A scientist, scholar, or investigator who conducts research.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The researcher published a groundbreaking study on climate change.",
+            "vi": "Nhà nghiên cứu đã công bố một nghiên cứu đột phá về biến đổi khí hậu."
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "word": "investigating",
+        "phonetic": "/ɪnˈvɛstɪɡeɪtɪŋ/",
+        "definition": "Exploring, examining, or researching something.",
+        "classification": "verb",
+        "examples": [
+          {
+            "en": "The police are investigating the cause of the accident.",
+            "vi": "Cảnh sát đang điều tra nguyên nhân vụ tai nạn."
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "word": "attacking",
+        "phonetic": "/əˈtækɪŋ/",
+        "definition": "Addressing, dealing with, or tackling a problem.",
+        "classification": "verb",
+        "examples": [
+          {
+            "en": "The government is attacking the issue of unemployment with new policies.",
+            "vi": "Chính phủ đang giải quyết vấn đề thất nghiệp bằng các chính sách mới."
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "word": "assess",
+        "phonetic": "/əˈsɛs/",
+        "definition": "To evaluate, analyze, or examine something.",
+        "classification": "verb",
+        "examples": [
+          {
+            "en": "The teacher will assess the students' progress at the end of the term.",
+            "vi": "Giáo viên sẽ đánh giá tiến bộ của học sinh vào cuối kỳ."
+          }
+        ]
+      }
+      
+    ]
+  }
+  

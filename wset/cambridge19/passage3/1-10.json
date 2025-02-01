@@ -1,0 +1,145 @@
+{
+    "vocabulary": [
+      {
+        "id": 1,
+        "word": "shard",
+        "phonetic": "/ʃɑːrd/",
+        "definition": "A piece of broken metal, glass, or rock, typically having sharp edges.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The floor was covered with shards of glass after the window broke.",
+            "vi": "Sàn nhà đầy những mảnh vỡ thủy tinh sau khi cửa sổ bị vỡ."
+          }
+        ],
+        "link": "https://dictionary.cambridge.org/dictionary/english/shard"
+      },
+      {
+        "id": 2,
+        "word": "collision",
+        "phonetic": "/kəˈlɪʒən/",
+        "definition": "A crash, impact, or accident involving two or more objects.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The car was damaged in a collision with a truck.",
+            "vi": "Chiếc xe bị hư hỏng do va chạm với một chiếc xe tải."
+          }
+        ],
+        "link": "https://dictionary.cambridge.org/dictionary/english/collision"
+      },
+      {
+        "id": 3,
+        "word": "debris",
+        "phonetic": "/dəˈbriː/",
+        "definition": "Rubbish, trash, or wreckage scattered after destruction.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The rescue teams searched through the debris for survivors.",
+            "vi": "Các đội cứu hộ tìm kiếm qua đống đổ nát để tìm người sống sót."
+          }
+        ],
+        "link": "https://dictionary.cambridge.org/dictionary/english/debris"
+      },
+      {
+        "id": 4,
+        "word": "orbit",
+        "phonetic": "/ˈɔːrbɪt/",
+        "definition": "The path a celestial object follows around another object in space.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "The satellite was placed in orbit around the Earth.",
+            "vi": "Vệ tinh đã được đặt trong quỹ đạo quanh Trái đất."
+          }
+        ],
+        "link": "https://dictionary.cambridge.org/dictionary/english/orbit"
+      },
+      {
+        "id": 5,
+        "word": "threat",
+        "phonetic": "/θret/",
+        "definition": "Danger, risk, or menace that can cause harm.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "Climate change poses a serious threat to the environment.",
+            "vi": "Biến đổi khí hậu là một mối đe dọa nghiêm trọng đối với môi trường."
+          }
+        ],
+        "link": "https://dictionary.cambridge.org/dictionary/english/threat"
+      },
+      {
+        "id": 6,
+        "word": "commercial",
+        "phonetic": "/kəˈmɜːrʃəl/",
+        "definition": "Relating to business, trade, or profit-making activities.",
+        "classification": "adjective",
+        "examples": [
+          {
+            "en": "The commercial success of the product was beyond expectations.",
+            "vi": "Thành công thương mại của sản phẩm vượt quá mong đợi."
+          }
+        ],
+        "link": "https://dictionary.cambridge.org/dictionary/english/commercial"
+      },
+      {
+        "id": 7,
+        "word": "civil",
+        "phonetic": "/ˈsɪvəl/",
+        "definition": "Relating to ordinary citizens or their rights and responsibilities.",
+        "classification": "adjective",
+        "examples": [
+          {
+            "en": "Civil rights movements have brought significant changes to society.",
+            "vi": "Các phong trào dân quyền đã mang lại những thay đổi lớn cho xã hội."
+          }
+        ],
+        "link": "https://dictionary.cambridge.org/dictionary/english/civil"
+      },
+      {
+        "id": 8,
+        "word": "department",
+        "phonetic": "/dɪˈpɑːrtmənt/",
+        "definition": "A division or unit within an organization.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "She works in the marketing department of a large corporation.",
+            "vi": "Cô ấy làm việc trong bộ phận tiếp thị của một tập đoàn lớn."
+          }
+        ],
+        "link": "https://dictionary.cambridge.org/dictionary/english/department"
+      },
+      {
+        "id": 9,
+        "word": "amateur",
+        "phonetic": "/ˈæmətər/",
+        "definition": "A non-professional or hobbyist.",
+        "classification": "noun",
+        "examples": [
+          {
+            "en": "He is an amateur photographer who enjoys taking pictures in his free time.",
+            "vi": "Anh ấy là một nhiếp ảnh gia nghiệp dư thích chụp ảnh trong thời gian rảnh."
+          }
+        ],
+        "link": "https://dictionary.cambridge.org/dictionary/english/amateur"
+      },
+      {
+        "id": 10,
+        "word": "sharply",
+        "phonetic": "/ˈʃɑːrpli/",
+        "definition": "Steeply, dramatically, or significantly.",
+        "classification": "adverb",
+        "examples": [
+          {
+            "en": "The temperature dropped sharply overnight.",
+            "vi": "Nhiệt độ giảm mạnh qua đêm."
+          }
+        ],
+        "link": "https://dictionary.cambridge.org/dictionary/english/sharply"
+      }
+    ]
+  }
+  
